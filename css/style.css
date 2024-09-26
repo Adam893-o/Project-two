@@ -41,7 +41,7 @@ h2 strong{
 }
 
 #content-wrapper {
-  background-image: url("..Media/Blue background.jpg");
+  background-image: url("Media/Blue background.jpg");
 	background-size: cover;
   float: left;
 }
