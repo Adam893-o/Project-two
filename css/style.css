@@ -39,7 +39,7 @@ header a#image1 img {
 }
 
 li {
-	color: blue;
+	color: red;
 	font-size: 1em;
 }
 
@@ -49,7 +49,7 @@ h2 strong{
 }
 
 #content-wrapper {
-  background-image: url("../Media/Orange.jpg");
+  background-image: url("../Media/LightBlue.jpg");
 	background-size: cover;
   float: left;
 }
