@@ -3,7 +3,7 @@ background-image: url("..Media/LightBlue.jpg");
 
 #header h1 {background-color: rgb (255, 165, 0)};
 	
-main {
+#main-content {
 	background-color: yellow;
 	font-size: 2em%;
 }
@@ -14,9 +14,18 @@ ul {
 
 li {
 	background-color: green;
-	font-size: 2em%;
+	font-size: 1em%;
 }
+
+h2 strong{
+	font-size: 2em;
+	font-weight: 800;
 
 #content-wrapper {
   background-image: url("..Media/Blue background.jpg");
   float: left;
+	
+strong {
+	font-weight: 900;
+	font-size: 48px;
+}
