@@ -1,1 +1,21 @@
+body {
+background-image: url("..Media/LightBlue");
 
+#header h1 {background-color: rgb (255, 165, 0)};
+	
+main {
+	background-color: yellow;
+}
+
+ul {
+	height: 60px;
+}
+
+li {
+	background-color: green;
+	font-size: 2em%;
+}
+
+#content-wrapper {
+  background-image: url("..Media/Blue background.jpg");
+  float: left;
