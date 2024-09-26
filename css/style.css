@@ -2,6 +2,12 @@ body {
 background-image: url("..Media/LightBlue.jpg");
 
 }
+#page-wrapper {
+	width: 890px;
+	box-shadow: rgba(255,165,0);
+	border-radius: 12px 12px 0px 0px;
+}
+	
 
 #caption {
 	color: blue;
@@ -17,7 +23,7 @@ ul {
 }
 
 li {
-	background-color: green;
+	background-color: orange;
 	font-size: 1em%;
 }
 
@@ -30,8 +36,19 @@ h2 strong{
   background-image: url("..Media/Blue background.jpg");
   float: left;
 }
-	
-strong {
-	font-weight: 900;
-	font-size: 48px;
+
+#main-nav ul li a:hover {
+  background-color: #ccc;
+  color: #333;
 }
+
+#center {
+  width: 960px;
+  text-align: center;
+}
+
+strong {
+	font-weight: 100;
+	font-size: 30px;
+}
+	
