@@ -1,5 +1,5 @@
 body {
-	background-image: url("../Media/LightBlue.jpg");
+	background-image: url("../Media/BlueBackground.jpg");
 	background-size: cover;
 }
 
@@ -38,9 +38,8 @@ header a#image1 img {
 }
 
 li {
-	color: orange;
-	font-size: 1em;
 	color: blue;
+	font-size: 1em;
 }
 
 h2 strong{
@@ -49,7 +48,7 @@ h2 strong{
 }
 
 #content-wrapper {
-  background-image: url("../Media/BlueBackground.jpg");
+  background-image: url("../Media/LightBlue.jpg");
 	background-size: cover;
   float: left;
 }
