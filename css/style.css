@@ -1,6 +1,7 @@
 body {
 	background-image: url("../Media/BlueBackground.jpg");
 	background-size: cover;
+	float: left;
 }
 
 #page-wrapper {
@@ -48,7 +49,7 @@ h2 strong{
 }
 
 #content-wrapper {
-  background-image: url("../Media/LightBlue.jpg");
+  background-image: url("../Media/Orange.jpg");
 	background-size: cover;
   float: left;
 }
@@ -69,6 +70,6 @@ ul {
 }
 
 strong {
-	font-weight: 100;
+	font-weight: 40;
 	font-size: 30px;
 }
