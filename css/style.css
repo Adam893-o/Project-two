@@ -6,7 +6,7 @@ body {
   background-attachment: fixed; 
 }
 
-#page-wrapper {
+page-wrapper {
 	width: 890px;
 	margin: 0 auto;
 	box-shadow: 0px 4px 8px rgba(255,165,0);
@@ -34,13 +34,13 @@ li {
 	font-size: 1em;
 }
 
-header a#image1 img {
+header a image1 img {
   margin-top: 20px;
   margin-left: 20px;
   margin-bottom: 20px;
 }
 
-#main-content {
+main-content {
 	background-color: yellow;
 	font-size: 2em%;
 }
@@ -55,7 +55,7 @@ h2 strong{
 	font-weight: 800;
 }
 
-#content-wrapper {
+content-wrapper {
   background-image: url("../Media/BlueBackground.jpg");
 	background-size: cover;
   float: middle;
@@ -78,12 +78,12 @@ ul {
 	z-index: 2;
 }
 
-#main-nav ul li a:hover {
+main-nav ul li a:hover {
   background-color: #ccc;
   color: #478;
 }
 
-#center {
+center {
   width: 960px;
   text-align: center;
 }
