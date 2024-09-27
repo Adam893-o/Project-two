@@ -26,7 +26,7 @@ header h1 {
 	top:5px;
 	font-size 3em;
 	font-family: 'helvactia', Arial;
-	color: #3580e3
+	color: #add8e6
 }
 
 li {
@@ -80,7 +80,7 @@ ul {
 
 main-nav ul li a:hover {
   background-color: #ccc;
-  color: #478;
+  color: #448;
 }
 
 center {
