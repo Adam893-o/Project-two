@@ -6,7 +6,7 @@
 	<link rel="stylesheet" href="css/style.css">
 <body>
 <header>
-  <nav id="main-nav">
+  <nav class= "navigation">
     <ul>
       <li><a href="https://adam893-o.github.io/project-1-jupiter.html">About Jupiter</a></li>
       <li><a href="https://adam893-o.github.io/resume.html">Adam's Resume</a></li>
