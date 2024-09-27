@@ -6,6 +6,19 @@ body {
   background-attachment: fixed; 
 }
 
+main-nav ul li{
+	float: left;
+	position: relative;
+	right: 50%;
+}
+
+#main-nav ul li a {
+  padding: 10px 25px;
+  display: block;
+  text-decoration: none;
+  color: #ccc;
+}
+
 .page-wrapper {
 	width: 890px;
 	margin: 0 auto;
@@ -81,6 +94,11 @@ p {
 	font-size: 1em;
 }
 
+main {
+    display: block;
+    unicode-bidi: isolate;
+}
+
 .container {
 	justify-content: center;
 	padding-left: 20px;
@@ -98,7 +116,7 @@ main-nav ul li a:hover {
   color: #478;
 }
 
-div {
+content-wrapper {
   width: 960px;
   text-align: center;
 	font-family: sans-serif, "Helvetica Neue", "Lucida Grande", Arial;
