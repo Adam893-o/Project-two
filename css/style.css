@@ -6,7 +6,7 @@ body {
   background-attachment: fixed; 
 }
 
-page-wrapper {
+.page-wrapper {
 	width: 890px;
 	margin: 0 auto;
 	box-shadow: 0px 4px 8px rgba(40,67,135,1);
@@ -28,10 +28,10 @@ img {
 
 header h1 {
 	position: absolute;
-	left 400px;
-	top:5px;
-	font-size 3em;
-	font-family: 'helvactia', Arial;
+	left: 400px;
+	top: 5px;
+	font-size: 3em;
+	font-family: 'Helvactia', Arial;
 	color: #add8e6
 }
 
@@ -49,15 +49,15 @@ li {
 	font-size: 1em;
 }
 
-header a image1 img {
+header a .image1 img {
   margin-top: 20px;
   margin-left: 20px;
   margin-bottom: 20px;
 }
 
-main-content {
+.main-content {
 	background-color: yellow;
-	font-size: 2em%;
+	font-size: 2em;
 }
 
 li {
@@ -70,14 +70,14 @@ h2 strong{
 	font-weight: 800;
 }
 
-content-wrapper {
+.content-wrapper {
   background-image: url("../Media/BlueBackground.jpg");
 	background-size: cover;
   float: left;
 }
 
 p {
-	color: 645;
+	color: 645645;
 	font-size: 1em;
 }
 
@@ -101,9 +101,12 @@ main-nav ul li a:hover {
 div {
   width: 960px;
   text-align: center;
+	font-family: sans-serif, "Helvetica Neue", "Lucida Grande", Arial;
+	font-stretch: expanded;
 }
 
 strong {
 	font-weight: 0.9em;
 	color: blue;
+	font-weight: bold;
 }
