@@ -22,7 +22,8 @@ header {
 img {
 	display: block;
 	margin:auto;
-	max-width: 100%
+	max-width: 100%;
+	height: auto;
 }
 
 header h1 {
@@ -72,11 +73,7 @@ p {
 }
 
 .container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 	text-align: center;
-	min-height: 100vh;
 }
 
 ul {
