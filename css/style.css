@@ -62,17 +62,6 @@ h2 strong {
   font-weight: 900;
 }
 
-section .facts-about-jupiter ul {
-  padding-left: 0;
-  margin-left: 0; 
-  list-style-position: inside;
-}
-
-section .facts-about-jupiter li {
-  text-align: left; 
-  margin-left: 0; 
-}
-
 #side-content {
   min-height: 150px;
   width: 200px;
