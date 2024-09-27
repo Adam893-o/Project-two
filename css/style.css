@@ -59,6 +59,7 @@ h2 strong{
   background-image: url("../Media/BlueBackground.jpg");
 	background-size: cover;
   float: middle;
+	background-repeat: no repeat;
 }
 
 p {
@@ -79,7 +80,7 @@ ul {
 
 #main-nav ul li a:hover {
   background-color: #ccc;
-  color: #333;
+  color: #478;
 }
 
 #center {
@@ -89,5 +90,5 @@ ul {
 
 strong {
 	font-weight: 0.9em;
-	color: red;
+	color: black;
 }
