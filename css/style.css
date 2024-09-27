@@ -12,7 +12,6 @@ page-wrapper {
 	box-shadow: 0px 4px 8px rgba(40,67,135,1);
 	border-radius: 12px 12px 0px 0px;
 }
-	
 
 header {
   position: relative;
@@ -67,9 +66,13 @@ p {
 }
 
 .container {
-  width: 80%;
-  margin: auto;
-  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px; 
+  height: 300px; 
+  border: 1px solid #000;
+  margin: 0 auto;
 }
 
 ul {
