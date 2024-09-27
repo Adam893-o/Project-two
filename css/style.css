@@ -30,14 +30,14 @@ body {
 }
 
 .navigation ul {
+	  display: flex;
     list-style-type: none;
     margin: 0;
     padding: 0;
-    float: left;
 }
 
 .navigation ul li {
-	margin: 0 15px;
+	margin-right: 20px;
   background-color: #0056a6; 
 }
 
@@ -56,16 +56,16 @@ header {
 
 img {
 	display: block;
-	margin:auto;
 	max-width: 100%;
 	height: auto;
+	z-index: auto;
 }
 
 header h1 {
-	position: absolute;
-	left: 10px;
-	top: 1px;
-	font-size: 3em;
+	position: inherit;
+	left: 800px;
+	top: -400px;
+	font-size: 2em;
 	font-family: 'Devonshire', Arial;
 	color: #add8e6
 }
