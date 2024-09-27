@@ -20,10 +20,10 @@
     <div class="content-wrapper">
 	    <header id="header">
 		<a id="Image1" href="https://adam893-o.github.io/Project-two/">
-		  <img src="Media/Image1.jpg" height="250" width="300" alt="Image of Jupiter" />
+		  <img src="Media/Image1.jpg" height="380" width="550" alt="Image of Jupiter" />
 		</a>
 		<header class="header">
-		 <div class="header-content">
+		 <div class="header">
        <h1>Why Jupiter is the Most Important Planet in Our Solar System</h1>
 		 </div>
     </header>		 
