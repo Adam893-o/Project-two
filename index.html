@@ -6,7 +6,7 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <header id="page-wrapper">
+  <header id="main-header">
     <div class="nav-container">
       <nav class="navigation">
         <ul>
