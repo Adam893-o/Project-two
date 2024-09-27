@@ -19,8 +19,10 @@
 </header>
   <div class="content-wrapper">
 	  <header id="header">
+		  <a id="Image1" href="https://adam893-o.github.io/Project-two/">
+			  <img src="Media/Image1.jpg" height="250" width="300" alt="Image of Jupiter" />
+		  </a>
     <h1>Why Jupiter is the Most Important Planet in Our Solar System</h1>
-		  <img src="Media/Image1.jpg" height="250" width="300" alt="Image of Jupiter" />
     <h3>A Brief History Behind Planet Jupiter</h3>
       <p>Jupiter is the 5th planet in the Solar System and was discovered by astronomer Galileo Galilei in 1610. He discovered it using a small telescope that he made himself. He realized that he had discovered Jupiter when he saw that the planet had four moons orbiting it rather than stars. This was a big discovery because people in the West always thought that the Earth was the center of the universe. With Jupiter's discovery, we finally realized that there are bigger objects out there in the universe, some of which are larger than anything we'd ever imagined.</p> 
       <p>Jupiter is the most important planet in our solar system because if it weren't for this gas giant, we would not be here. Our solar system is surrounded by an asteroid belt, and because Jupiter is located toward the center of our system, it uses its strong gravitational pull to suck in any asteroids that come toward us, <strong>destroying</strong> them with its powerful gravitational force.</p>
