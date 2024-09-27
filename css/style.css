@@ -1,11 +1,20 @@
 body {
   background-image: url('../Media/LightBlue.jpg'); 
-  background-size: cover; 
-  background-position: center; 
-  background-repeat: no-repeat; 
-  background-attachment: fixed; 
+  	
 }
 
+body {
+    display: block;
+    margin: 8px;
+}
+
+
+#page-wrapper {
+    width: 960px;
+    margin: 0 auto;
+    box-shadow: 0px 4px 8px 2px #00fffe;
+    border-radius: 12px 12px 0px 0px;
+}
 .nav-container {
 	display: flex;
   justify-content: center;
@@ -16,15 +25,6 @@ body {
 	border-radius: 10px;
 	margin: 0 auto;
 	box-shadow: 0px 4px 8px rgba(0,0,0,0.3)
-}
-
-.navigation ul li a {
-  color: white;
-  text-decoration: none; 
-  font-size: 1.2em;
-  padding: 10px 20px; 
-  background-color: #1b7fcc; 
-  border-radius: 5px; 
 }
 
 .navigation ul li a:hover {
@@ -76,9 +76,10 @@ header a .image1 img {
   margin-bottom: 20px;
 }
 
-.main-content {
-	background-color: yellow;
-	font-size: 2em;
+#main-nav {
+    float: left;
+    width: 100%;
+    background-color: #167ac6;
 }
 
 ul {
@@ -89,6 +90,16 @@ ul {
 h2 strong{
 	font-size: 2em;
 	font-weight: 800;
+}
+
+
+.navigation ul li a {
+  color: white;
+  text-decoration: none; 
+  font-size: 1.2em;
+  padding: 10px 20px; 
+  background-color: #1b7fcc; 
+  border-radius: 5px; 
 }
 
 .content-wrapper {
