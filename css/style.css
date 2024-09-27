@@ -1,8 +1,10 @@
 body {
-  background-image: url('../Media/LightBlue.jpg'); 
-  	
+  background-image: url('../Media/Orange.jpg'); /* Check the path */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
-
 body {
     display: block;
     margin: 8px;
