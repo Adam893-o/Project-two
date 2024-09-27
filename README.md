@@ -3,10 +3,10 @@
 <head>
 	<meta charset="utf-8">
 	<title>My Websites</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" href="css/style.css">
 <body>
 <header>
-  <nav>
+  <nav id="main-nav">
     <ul>
       <li><a href="https://adam893-o.github.io/project-1-jupiter.html">About Jupiter</a></li>
       <li><a href="https://adam893-o.github.io/resume.html">Adam's Resume</a></li>
@@ -14,7 +14,7 @@
     </ul>
   </nav>
 </header>
-  <div id="page-wrapper"> 
+  <div id="page-wrapper">	  
     <h1>Why Jupiter is the Most Important Planet in Our Solar System</h1>
       <img src="Media/Image1.jpg" height="250" width="300" alt="Image of Jupiter" /></a>
     <h3>A Brief History Behind Planet Jupiter</h3>
