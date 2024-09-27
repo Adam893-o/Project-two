@@ -12,6 +12,11 @@ body {
     background-color: rgba(27, 127, 204, .8);
 }
 
+nav {
+    display: block;
+    unicode-bidi: isolate;
+}
+
 #main-nav ul li a {
   padding: 10px 25px;
   display: block;
