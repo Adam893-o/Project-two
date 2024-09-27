@@ -4,8 +4,8 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  margin: 8px;
-  font-family: Arial, sans-serif;
+	margin: 8px;
+	font-family: Arial, sans-serif;
 }
 body {
     display: block;
@@ -20,13 +20,13 @@ body {
 
 
 .nav-container {
-  display: flex;
+	display: flex;
   justify-content: center;
-  unicode-bidi: isolate;
+	unicode-bidi: isolate;
   background-color: rgba(27,127,204,.8);
-  padding: 15px;
-  border-radius: 10px;
-  box-shadow: 0px 4px 8px rgba(0,0,0,0.3)
+	padding: 15px;
+	border-radius: 10px;
+	box-shadow: 0px 4px 8px rgba(0,0,0,0.3)
 }
 
 .navigation ul {
@@ -37,7 +37,7 @@ body {
 }
 
 .navigation ul li {
-  margin: 0 15px;
+	margin: 0 15px;
   background-color: #0056a6; 
 }
 
@@ -73,7 +73,10 @@ header h1 {
 .header-content {
     display: flex;
     justify-content: flex-end;
+    align-items: flex-start;
+    padding-top: 10px;
     padding-right: 10px;
+    height: 100px;
 }
 
 .header-content h1 {
