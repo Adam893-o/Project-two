@@ -46,7 +46,7 @@ header a#image1 img {
 }
 
 li {
-	color: red;
+	color: black;
 	font-size: 1em;
 }
 
@@ -90,5 +90,5 @@ ul {
 
 strong {
 	font-weight: 0.9em;
-	color: black;
+	color: blue;
 }
