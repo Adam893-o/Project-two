@@ -12,9 +12,15 @@ body {
     background-color: rgba(27, 127, 204, .8);
 }
 
-nav {
-    display: block;
+.navigation {
+    display: flex;
     unicode-bidi: isolate;
+		justify-content: #333;
+		padding: 15 px;
+		position: relative;
+		top: 0;
+		width: 100%;
+		z-index: 10;
 }
 
 #main-nav ul li a {
