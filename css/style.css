@@ -19,6 +19,11 @@ header {
   border-radius: 12px 12px 0px 0px; 
 }
 
+img {
+	display: block;
+	margin:auto;
+}
+
 header h1 {
 	position: absolute;
 	left 400px;
@@ -69,10 +74,6 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 400px; 
-  height: 300px; 
-  border: 1px solid #000;
-  margin: 0 auto;
 }
 
 ul {
