@@ -39,6 +39,10 @@ div {
 	text-align: center;
 }
 
+div {
+	font-family: sans-serif, "Helvetica Neue", "Lucida Grande", Arial;
+  font-stretch: expanded;
+}
 
 li {
 	color: blue;
