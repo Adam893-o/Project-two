@@ -1,7 +1,9 @@
 body {
-	background-image: url("../Media/Orange.jpg");
-	background-size: cover;
-	float: left;
+  background-image: url('../Media/Orange.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
 }
 
 #page-wrapper {
@@ -54,9 +56,20 @@ h2 strong{
 }
 
 #content-wrapper {
-  background-image: url("../Media/LightBlue.jpg");
+  background-image: url("../Media/BlueBackground.jpg");
 	background-size: cover;
   float: middle;
+}
+
+p {
+	color: 665;
+	font-size: 1em;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
 }
 
 ul {
@@ -75,6 +88,6 @@ ul {
 }
 
 strong {
-	font-weight: 10;
-	font-size: 5px;
+	font-weight: 0.9em;
+	color: red;
 }
