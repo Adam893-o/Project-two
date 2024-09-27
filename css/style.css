@@ -22,6 +22,7 @@ header {
 img {
 	display: block;
 	margin:auto;
+	max-width: 100%
 }
 
 header h1 {
@@ -66,7 +67,7 @@ content-wrapper {
 }
 
 p {
-	color: 665;
+	color: 645;
 	font-size: 1em;
 }
 
@@ -75,6 +76,7 @@ p {
   justify-content: center;
   align-items: center;
 	text-align: center;
+	min-height: 100vh;
 }
 
 ul {
