@@ -6,20 +6,19 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<div id="page-wrapper">
-<header class="header">
-  <div class="navigation">
-    <nav class="navigation">
-      <ul>
-        <li><a href="https://adam893-o.github.io/project-1-jupiter.html">About Jupiter</a></li>
-        <li><a href="https://adam893-o.github.io/resume.html">Adam's Resume</a></li>
-        <li><a href="https://adam893-o.github.io/Project-1-UNO">Facts About UNO</a></li>
-      </ul>
-    </nav>
-	</div>
-</header>
-  <div class="content-wrapper">
-	  <header id="header">
+  <header id="page-wrapper">
+    <div class="nav-container">
+      <nav class="navigation">
+        <ul>
+          <li><a href="https://adam893-o.github.io/project-1-jupiter.html">About Jupiter</a></li>
+          <li><a href="https://adam893-o.github.io/resume.html">Adam's Resume</a></li>
+          <li><a href="https://adam893-o.github.io/Project-1-UNO">Facts About UNO</a></li>
+        </ul>
+      </nav>
+	  </div>
+  </header>
+    <div class="content-wrapper">
+	    <header id="header">
 		<a id="Image1" href="https://adam893-o.github.io/Project-two/">
 		  <img src="Media/Image1.jpg" height="250" width="300" alt="Image of Jupiter" />
 		</a>
