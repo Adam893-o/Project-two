@@ -14,7 +14,8 @@
     </ul>
   </nav>
 </header>
-  <div id="page-wrapper">	  
+  <div class="content-wrapper"
+  <div id="page-wrapper"> 
     <h1>Why Jupiter is the Most Important Planet in Our Solar System</h1>
       <img src="Media/Image1.jpg" height="250" width="300" alt="Image of Jupiter" /></a>
     <h3>A Brief History Behind Planet Jupiter</h3>
@@ -39,5 +40,6 @@
     <h3>Overall Conclusion</h3>
       <p>While we may never be able to see what's inside Jupiter due to the planet's immense power, we can still study and admire it for protecting us for so many years. However, not everything last forever as studies from NASA have shown that the planet is shrinking. So many mysteries are yet to be discovered about this mysterious planet, and we continue to explore what this fascinating planet has in store for us.</p>
 	    <p>Written by Adam Sharifeh</p>
+	  </div>
 </body>
 </html>
