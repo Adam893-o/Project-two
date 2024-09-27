@@ -63,11 +63,23 @@ img {
 
 header h1 {
 	position: absolute;
-	left: 400px;
+	left: 10px;
 	top: 1px;
 	font-size: 3em;
 	font-family: 'Devonshire', Arial;
 	color: #add8e6
+}
+
+.header-content {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10px;
+}
+
+.header-content h1 {
+    font-size: 3em;
+    font-family: 'Devonshire', Arial;
+    color: #add8e6;
 }
 
 div {
@@ -133,12 +145,6 @@ p {
 	font-size: 1em;
 	line-height: 1.6;
 }
-
-main {
-    display: block;
-    unicode-bidi: isolate;
-}
-
 .container {
 	justify-content: center;
 	padding-left: 20px;
