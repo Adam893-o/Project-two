@@ -6,28 +6,30 @@ body {
   background-attachment: fixed; 
 }
 
-#main-nav {
-    float: left;
-    width: 100%;
-    background-color: rgba(27, 127, 204, .8);
+.nav-container {
+	  display: flex;
+    justify-content: center;
+    width: fit-content;
+		unicode-bidi: isolate;
+    background-color: rgba(27,127,204,.8);
+		padding: 15px;
+		border-radius: 10px;
+		margin: 0 auto;
+		box-shadow: 0px 4px 8px rgba(0,0,0,0.3)
 }
 
-.navigation {
-    display: flex;
-    unicode-bidi: isolate;
-		justify-content: #333;
-		padding: 15 px;
-		position: relative;
-		top: 0;
-		width: 100%;
-		z-index: 10;
+.navigation ul li a {
+  color: white;
+  text-decoration: none; 
+  font-size: 1.2em;
+  padding: 10px 20px; 
+  background-color: #1b7fcc; 
+  border-radius: 5px; 
 }
 
-#main-nav ul li a {
-  padding: 10px 25px;
-  display: block;
-  text-decoration: none;
-  color: #ccc;
+.navigation ul li a:hover {
+  background-color: #0056a6; 
+  color: #fff; 
 }
 
 .page-wrapper {
@@ -63,11 +65,6 @@ div {
 	text-align: center;
 }
 
-div {
-	font-family: sans-serif, "Helvetica Neue", "Lucida Grande", Arial;
-  font-stretch: expanded;
-}
-
 li {
 	color: blue;
 	font-size: 1em;
@@ -84,7 +81,7 @@ header a .image1 img {
 	font-size: 2em;
 }
 
-li {
+ul {
 	color: black;
 	font-size: 1em;
 }
@@ -117,11 +114,6 @@ main {
 	min-height: 100vh;
 }
 
-ul {
-	position: relative;
-	z-index: 2;
-}
-
 main-nav ul li a:hover {
   background-color: #cc;
   color: #590;
@@ -130,7 +122,7 @@ main-nav ul li a:hover {
 content-wrapper {
   width: 960px;
   text-align: center;
-	font-family: sans-serif, "Helvetica Neue", "Lucida Grande", Arial;
+	font-family: sans-serif, "Helvetica Neue", Arial;
 	font-stretch: expanded;
 }
 
