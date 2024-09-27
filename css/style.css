@@ -12,11 +12,11 @@ body {
 
 #main-nav {
     float: left;
-    width: 50%;
+    width: 100%;
     background-color: #167ac6;
 }
 
-.navigation ul {
+#main-nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -66,7 +66,7 @@ img {
 header h1 {
 	position: absolute;
 	left: 400px;
-	top: 5px;
+	top: 1px;
 	font-size: 3em;
 	font-family: 'Devonshire', Arial;
 	color: #add8e6
@@ -146,5 +146,4 @@ strong {
 	font-weight: 0.9em;
 	color: blue;
 	font-weight: bold;
-}
 }
