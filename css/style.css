@@ -14,10 +14,6 @@ body {
     background-color: #167ac6;
 }
 
-nav {
-	display: block;
-	unicode-bidi:isolate
-
 .nav-container {
 	display: flex;
   justify-content: center;
