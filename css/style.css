@@ -83,6 +83,7 @@ p {
 
 .container {
 	justify-content: center;
+	padding-left: 20px;
   align-items: center;
 	min-height: 100vh;
 }
