@@ -14,7 +14,7 @@
     </ul>
   </nav>
 </header>
-  <div class="content-wrapper"
+  <div class="content-wrapper">
   <div id="page-wrapper"> 
     <h1>Why Jupiter is the Most Important Planet in Our Solar System</h1>
       <img src="Media/Image1.jpg" height="250" width="300" alt="Image of Jupiter" /></a>
