@@ -61,13 +61,13 @@ img {
 	z-index: auto;
 }
 
-header h1 {
+.header h1 {
 	position: inherit;
 	left: 800px;
 	top: -400px;
 	font-size: 2em;
 	font-family: 'Devonshire', Arial;
-	color: #add8e6
+	color: #00ffea
 }
 
 .header-content {
@@ -103,13 +103,13 @@ header a .image1 img {
 ul {
 	color: black;
 	font-size: 1em;
-	color: 567;
 }
 
 
 ul {
 	padding-left:20px;
 	margin: 20px 0;
+	color; 567
 }
 
 h2 strong{
