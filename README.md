@@ -24,7 +24,7 @@
 		</a>
 		<header class="header">
 		 <div class="header">
-       <h1>Why Jupiter is the Most Important Planet in Our Solar System</h1>
+       <h1>Why Jupiter Is The Most Important Planet In Our Solar System</h1>
 		 </div>
     </header>		 
     <h3>A Brief History Behind Planet Jupiter</h3>
