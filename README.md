@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Why Jupiter is the Most Important Planet</title>
+  <title>My Websites</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -18,14 +18,16 @@
     </div>
   </header>
   <div class="content-wrapper">
-    <header class="header">
+    <header id="header">
     <a id="image1" href="https://adam893-o.github.io/Project-two/"> 
     </a>
     </header> 
   </div> 
+    <header class="header">
   <div class="header">
   <h1 class="page-title">Why Jupiter Is The Most Important Planet In Our Solar System</h1>
   </div>
+    </header>
   <section>
     <img src="media/image1.jpg" alt="A stunning look up cloase at Jupiter and seeing the great red spot" >
     <h3>A Brief History Behind Planet Jupiter</h3>
