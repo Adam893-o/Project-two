@@ -60,7 +60,7 @@ h1 {
   padding: 20px;
   border:10px ridge silver;
   width: 96%;
-  margin: 0px auto;
+  margin: 20px auto;
 }
 
 #box2 {
@@ -69,7 +69,7 @@ h1 {
   padding: 20px;
   border:10px ridge silver;
   width: 96%;
-  margin: 0px auto;
+  margin: 20px auto;
 }
 
 #box3 {
@@ -78,7 +78,7 @@ h1 {
   padding: 20px;
   border:10px ridge silver;
   width: 96%;
-  margin: 0px auto;
+  margin: 20px auto;
 }
 
 #box4 {
@@ -87,7 +87,7 @@ h1 {
   padding: 20px;
   border:10px ridge silver;
   width: 96%;
-  margin: 0px auto;
+  margin: 20px auto;
 }
 
 
@@ -97,6 +97,7 @@ h1 {
   padding: 20px;
   border:10px ridge silver;
   width: 96%;
+  margin: 20px auto;
 }
 
 
@@ -117,6 +118,7 @@ h1 {
   padding: 20px;
   border:10px ridge silver;
   width: 96%;
+  margin: 20px auto;
 }
 
 .navigation ul li {
@@ -138,10 +140,10 @@ header {
 }
 
 img {
-	display: fixed;
-	max-width: 100%;
-	height: auto;
-	z-index: auto;
+  display: fixed;
+  max-width: 100%;
+  height: auto;
+  z-index: auto;
 }
 
 .header h1 {
@@ -183,6 +185,7 @@ h2 {
 
 div {
 	text-align: center;
+	margin: 0 auto;
 }
 
 
