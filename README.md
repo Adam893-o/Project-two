@@ -4,15 +4,18 @@
   <meta charset="utf-8">
   <title>My Websites</title>
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/jupiter.css">
+  <link rel="stylesheet" href="css/resume.css">
+  <link rel="stylesheet" href="css/uno.css">
 </head>
 <body>
   <header id="main-header">
     <div class="nav-container">
       <nav class="navigation">
         <ul>
-          <li><a href="jupiter2.css">About Jupiter</a></li>
-          <li><a href="resume.css">Adam's Resume</a></li>
-          <li><a href="uno2.css">Uno Facts</a></li>
+          <li><a href="jupiter2.html">About Jupiter</a></li>
+          <li><a href="resume.html">Adam's Resume</a></li>
+          <li><a href="uno2.html">Uno Facts</a></li>
         </ul>
       </nav>
     </div>
@@ -25,7 +28,7 @@
   </div> 
     <header class="header">
   <div class="header">
-  <h1>Why Jupiter Is The Most Important Planet In Our Solar System</h1>
+  <h1 class="page-title">Why Jupiter Is The Most Important Planet In Our Solar System</h1>
   </div>
   <section>
     <img src="media/image1.jpg" alt="A stunning look up cloase at Jupiter and seeing the great red spot" >
@@ -37,8 +40,8 @@
     </div> 
       <p>Above shows an image of the marks that Jupiter recieved while destroying tons of asteroid over the many years</p>
       <h2>Other Facts About Planet Jupiter</h2>
-      <img src="media/image3.jpg" alt="An accurate picture to show exactly how big Jupiter is compared to other planets in out solar system">
-      <p>You can fit 1,000 Earths into Jupiter and that would be the size of the planet. We are very <strong>very</strong> tiny compared to space.</p>
+        <img src="media/image3.jpg" alt="An accurate picture to show exactly how big Jupiter is compared to other planets in out solar system">
+        <p>You can fit 1,000 Earths into Jupiter and that would be the size of the planet. We are very <strong>very</strong> tiny compared to space.</p>
     <ul>
       <li>Jupiter was named after the king of the gods in Roman mythology. Given that Jupiter is the biggest planet, it deserves that title.</li>
       <li>Those beautiful clouds surrounding Jupiter are actually extremely powerful storms.</li>
