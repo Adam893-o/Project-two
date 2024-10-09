@@ -1,51 +1,70 @@
 body {
-  background-image: url('../Media/Orange.jpg');
+  background-image: url('../media/orange.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-	margin: 8px;
-	font-family: Arial, sans-serif;
-}
-body {
-    display: block;
-    margin: 8px;
+  position: relative;
+  display: block;
+  margin: 8px;
+  font-family: Arial, sans-serif;
 }
 
-#main-nav {
-    float: left;
-    width: 100%;
-    background-color: #167ac6;
+main-nav {
+  float: left;
+  width: 100px;
+  background-color: blue;
 }
 
-
-.nav-container {
-	display: flex;
-  justify-content: center;
-	unicode-bidi: isolate;
-  background-color: rgba(27,127,204,.8);
-	padding: 15px;
-	border-radius: 10px;
-	box-shadow: 0px 4px 8px rgba(0,0,0,0.3)
-}
-
-.navigation ul {
-	  display: flex;
+#main-nav ul li {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    float: left;
+    position: relative;
+    left: 50%;
+}
+
+main-nav ul li {
+    float: left;
+    position: relative;
+    right: 50%;
+}
+
+main-nav ul li a {
+    padding: 10px 25px;
+    display: block;
+    text-decoration: none;
+    color: #ccc;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: center;
+    unicode-bidi: isolate;
+    background-color: rgba(27, 127, 204, .8);
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.navigation ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .navigation ul li {
-	margin-right: 20px;
+  margin-right: 20px;
   background-color: #0056a6; 
 }
 
 .page-wrapper {
-	width: 890px;
-	margin: 0 auto;
-	box-shadow: 0px 4px 8px rgba(40,67,135,1);
-	border-radius: 12px 12px 0px 0px;
+  width: 890px;
+  margin: 0 auto;
+  box-shadow: 0px 4px 8px rgba(40,67,135,1);
+  border-radius: 12px 12px 0px 0px;
 }
 
 header {
@@ -62,12 +81,12 @@ img {
 }
 
 .header h1 {
-	position: inherit;
-	left: 800px;
-	top: -400px;
-	font-size: 2em;
-	font-family: 'Devonshire', Arial;
-	color: #00ffea
+  position: absolute;
+  left: 455px;
+  top: 40px;
+  font-size: 4em;
+  font-family: 'Devonshire', Garamond;
+  color: #00ffea
 }
 
 .header-content {
