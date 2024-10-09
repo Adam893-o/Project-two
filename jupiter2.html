@@ -36,7 +36,7 @@
     <div id="img2">
       <img src="media/image2.jpg" alt="A closer look at the mark Jupiter took while destroying all those asteroids.">
     </div> 
-      <p>Above shows an image of the marks that Jupiter recieved while destroying tons of asteroid over the many years</p>
+      <p>Above shows an image of the marks that Jupiter recieved while destroying tons of asteroids over the many years</p>
       <h2>Other Facts About Planet Jupiter</h2>
         <img src="media/image3.jpg" alt="An accurate picture to show exactly how big Jupiter is compared to other planets in out solar system">
         <p>You can fit 1,000 Earths into Jupiter and that would be the size of the planet. We are very <strong>very</strong> tiny compared to space.</p>
