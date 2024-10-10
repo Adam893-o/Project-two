@@ -103,6 +103,14 @@ img {
   color: #add8e6;
 }
 
+#box1 {
+  background-color: #1cff83;
+  display: fixed;
+  padding: 20px;
+  border:10px ridge silver;
+  width: 96%;
+  margin: 20px auto;
+}
 
 div {
   text-align: center;
