@@ -43,11 +43,6 @@ body {
   padding: 0;
 }
 
-nav ul li a {
-  color: #ee2929;
-  text-decoration: none;
-}
-
 nav ul li a:hover {
   color: #fff580; 
   background-color: #2200fb; 
