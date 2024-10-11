@@ -23,9 +23,6 @@ main-nav {
   float: left;
   position: relative;
   left: 50%;
-}
-
-main-nav ul li {
   float: left;
   position: relative;
   right: 50%;
