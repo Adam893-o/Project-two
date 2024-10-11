@@ -23,11 +23,6 @@ body {
   left: 50%;
 }
 
-nav ul li a {
-  color: #ee2929;
-  text-decoration: none;
-}
-
 nav ul li a:hover {
   color: orange; 
   background-color: purple; 
