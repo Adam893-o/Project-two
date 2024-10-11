@@ -52,11 +52,6 @@ main-nav ul li a {
   padding: 0;
 }
 
-nav ul li a {
-  color: #ee2929;
-  text-decoration: none;
-}
-
 nav ul li a:hover {
   color: green; 
   background-color: yellow; 
