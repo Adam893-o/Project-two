@@ -62,7 +62,7 @@ h1 {
 
 #box1 {
   background-color: #1cff83;
-  display: fixed;
+  display: flow;
   padding: 20px;
   border:10px ridge silver;
   width: 96%;
@@ -71,7 +71,7 @@ h1 {
 
 #box2 {
   background-color: #ff1c1c;
-  display: fixed;
+  display: flow;
   padding: 20px;
   border:10px ridge silver;
   width: 96%;
@@ -80,7 +80,7 @@ h1 {
 
 #box3 {
   background-color: #ffe600;
-  display: fixed;
+  display: flow;
   padding: 20px;
   border:10px ridge silver;
   width: 96%;
@@ -89,7 +89,7 @@ h1 {
 
 #box4 {
   background-color: #0096ff;
-  display: fixed;
+  display: flow;
   padding: 20px;
   border:10px ridge silver;
   width: 96%;
@@ -99,7 +99,7 @@ h1 {
 
 #box5 {
   background-color: #7200ff;
-  display: fixed;
+  display: flow;
   padding: 20px;
   border:10px ridge silver;
   width: 96%;
@@ -120,7 +120,7 @@ h1 {
 
 #box6 {
   background-color: #ff5000;
-  display: fixed;
+  display: flow;
   padding: 20px;
   border:10px ridge silver;
   width: 96%;
@@ -146,7 +146,6 @@ header {
 }
 
 img {
-  display: fixed;
   max-width: 100%;
   height: auto;
   margin: 20px auto;
@@ -229,13 +228,6 @@ h2 strong{
   font-weight: 800;
 }
 
-.content-wrapper {
-  padding: 20px
-  background-image: url("../Media/Orange.jpg");
-  background-size: cover;
-  float: left;
-}
-
 p {
   color: black;
   font-size: 2em;
@@ -261,7 +253,6 @@ content-wrapper {
 }
 
 strong {
-  font-weight: 0.9em;
   color: blue;
   font-weight: bold;
 }
