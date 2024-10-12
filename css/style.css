@@ -130,7 +130,6 @@ footer {
   padding: 10px 20px;
   background-color: #1b7fcc;
   border-radius: 5px;
-  transitio: background-color 0.3s ease;
 }
 .content-wrapper {
   padding: 20px;
