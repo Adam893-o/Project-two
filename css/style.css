@@ -7,7 +7,6 @@ body {
   position: relative;
   display: block;
   margin: 8px;
-  text-decoration: none;
   font-family: Arial, sans-serif;
 }
 
@@ -24,15 +23,29 @@ main-nav {
   float: left;
   position: relative;
   left: 50%;
+}
+
+main-nav ul li {
   float: left;
+  position: relative;
   right: 50%;
 }
 
 main-nav ul li a {
   padding: 10px 25px;
   display: block;
-  text-decoration: none;
   color: #ccc;
+}
+
+nav ul li a {
+  color: #ee2929;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  color: #fff580; 
+  background-color: #2200fb; 
+  text-decoration: underline; 
 }
 
 .nav-container {
@@ -52,10 +65,9 @@ main-nav ul li a {
   padding: 0;
 }
 
-nav ul li a:hover {
-  color: #fff580; 
-  background-color: #2200fb; 
-  text-decoration: underline; 
+.navigation ul li {
+  margin-right: 20px;
+  background-color: #0056a6; 
 }
 
 .page-wrapper {
@@ -74,6 +86,7 @@ header {
 img {
   max-width: 100%;
   height: auto;
+  z-index: auto;
 }
 
 .header h1 {
@@ -124,7 +137,6 @@ ul {
 ul {
   padding-left:20px;
   margin: 20px 0;
-  color; 567
 }
 
 h2 strong{
@@ -152,27 +164,17 @@ footer {
   transition: background-color 0.3s ease; 
 }
 
-.content-wrapper {
-  padding: 20px
-  background-image: url("../Media/Orange.jpg");
-  background-size: cover;
-  float: left;
-}
-
 p {
   color: #ffffff;
   font-size: 2em;
   line-height: 1.6;
 }
+
 .container {
   justify-content: center;
   padding-left: 20px;
   align-items: center;
   min-height: 100vh;
-}
-
-main-nav ul li a:hover {
-  background-color: #0056a6;
 }
 
 content-wrapper {
