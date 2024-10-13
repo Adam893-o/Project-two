@@ -88,6 +88,7 @@ header {
   border:10px ridge silver;
   width: 40%;
   margin: 0px auto;
+  font-family: "cursive", fangsong;
 }
 
 .header-content {
