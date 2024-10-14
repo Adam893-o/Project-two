@@ -276,8 +276,8 @@ section {
   margin: 6em;
   border-radius: 10px;
   text-align: center;
-  border: 1px solid beige;
-  background-image: linear-gradient(to right top, orange, blue, red);
+  border: 1px solid bisque;
+  background-image: linear-gradient(to left, darkgreen, blue, indigo, red);
 }
 
 strong {
