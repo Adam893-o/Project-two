@@ -150,6 +150,7 @@ img {
   height: auto;
   margin: 20px auto;
   text-align: center;
+  border: 4px solid #76ffc6;
 }
 
 .header h1 {
