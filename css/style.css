@@ -92,7 +92,7 @@ img {
 .header h1 {
   position: absolute;
   left: 455px;
-  top: 0.4px;
+  top: 0px;
   font-size: 4em;
   font-family: 'Devonshire', Garamond;
   color: #00ffea
