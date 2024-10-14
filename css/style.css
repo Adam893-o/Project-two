@@ -92,7 +92,7 @@ img {
 .header h1 {
   position: absolute;
   left: 455px;
-  top: 40px;
+  top: 20px;
   font-size: 4em;
   font-family: 'Devonshire', Garamond;
   color: #00ffea
@@ -177,6 +177,7 @@ p {
   color: #ffffff;
   font-size: 1em;
   line-height: 1.6;
+  font-family: "cursive", sans-serif;
 }
 
 .container {
