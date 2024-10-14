@@ -272,13 +272,12 @@ footer {
 }
 
 section {
-  background-color: #f9f9f9;
   padding: 3em;
   margin: 6em;
   border-radius: 10px;
   text-align: center;
   border: 1px solid beige;
-  background-image: linear-gradient(to right top, green, blue, red);
+  background-image: linear-gradient(to right top, orange, blue, red);
 }
 
 strong {
