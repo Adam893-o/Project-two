@@ -86,7 +86,7 @@ header {
 img {
   max-width: 100%;
   height: auto;
-  z-index: auto;
+  border: 4px solid beige;
 }
 
 .header h1 {
