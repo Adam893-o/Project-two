@@ -115,6 +115,7 @@ div {
 li {
   color: black;
   font-size: 1em;
+  border: 1px solid;
 }
 
 header a .image1 img {
