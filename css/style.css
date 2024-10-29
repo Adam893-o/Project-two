@@ -105,6 +105,33 @@ h2, h3 {
   color: orange;
 }
 
+body.resume h1, h2 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-family: 'Devonshire', Georgia;
+    color: silver;
+    unicode-bidi: isolate;
+}
+
+body.uno2 h1, h2 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-family: 'Devonshire', Georgia;
+    color: yellow;
+    unicode-bidi: isolate;
+}
+
+
 #box1 {
   background-color: #1cff83;
   display: flow;
@@ -142,8 +169,8 @@ h2, h3 {
 }
 
 #box5{
-  background-color: #c77ffd;
-  display: flow;
+	background-color: #c77ffd;
+	display: flow;
   padding: 20px;
   border:10px ridge light orange;
   width: 96%;
@@ -169,8 +196,8 @@ h2, h3 {
 }
 
 #box8 {
-	background-color: lightblue;
-	display: flow;
+  background-color: #5dffdc;
+  display: flow;
   padding: 20px;
   border:10px ridge silver;
   width: 96%;
@@ -199,6 +226,11 @@ body.uno2 {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
+}
+
+body.uno2 .uno-image {
+  float: left;
+  margin-right: 20px;
 }
 
 body.resume {
