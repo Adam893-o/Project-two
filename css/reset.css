@@ -12,8 +12,9 @@ html, body {
     color: #333;
 }
 
-img,
+img, {
   height: auto;
+}
 picture,
 video,
 svg {
