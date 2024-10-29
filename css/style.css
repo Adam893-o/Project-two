@@ -186,6 +186,7 @@ body.uno2 h1, h2 {
   background-color: #c77ffd;
   display: flow;
   padding: 20px;
+  border:10px ridge green;
   width: 96%;
   margin: 20px auto;
 }
