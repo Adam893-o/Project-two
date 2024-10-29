@@ -78,7 +78,7 @@ header {
   color: #00ffea
 }
 
-#box1, box2, box3 {
+#box1, #box2, #box3 {
   background-color: #5dffdc;
   display: flow;
   padding: 20px;
