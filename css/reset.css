@@ -7,13 +7,14 @@
 
 html, body {
     height: 100%;
-    font-family: Arial, sans-serif; /* Set default font */
+    font-family: Arial, sans-serif; 
     line-height: 1.5;
     color: #333;
 }
 
 img {
   height: auto;
+  border: solid 4px #ff0000;
 }
 picture,
 video,
