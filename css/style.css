@@ -182,11 +182,10 @@ body.uno2 h1, h2 {
   margin: 20px auto;
 }
 
-#box5{
+#box5 {
   background-color: #c77ffd;
   display: flow;
   padding: 20px;
-  border:10px ridge light orange;
   width: 96%;
   margin: 20px auto;
 }
