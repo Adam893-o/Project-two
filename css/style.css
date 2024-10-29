@@ -373,6 +373,13 @@ section {
   border: 1px solid bisque;
 }
 
+address {
+    display: block;
+    font-style: italic;
+    unicode-bidi: isolate;
+		color: lightblue;
+}
+
 strong {
   color: yellow;
   font-weight: bold;
