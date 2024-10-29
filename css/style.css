@@ -114,6 +114,22 @@ h2, h3 {
   margin: 20px auto;
 }
 
+body.uno2 {
+  background-image: url('../media/uno.jpg');
+	background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+body.resume {
+	background-image: url('../media/green.jpg');
+	background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 
 .header-content {
   display: flex;
