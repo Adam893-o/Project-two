@@ -105,7 +105,7 @@ h2, h3 {
   color: orange;
 }
 
-#box1 #box2 #box3 #box4 #box5 #box6 {
+#box1 #box2 #box3 #box4 #box5 #box6 #box7{
   background-color: #1cff83;
   display: flow;
   padding: 20px;
@@ -116,15 +116,15 @@ h2, h3 {
 
 body.uno2 {
   background-image: url('../media/uno.jpg');
-	background-size: cover;
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
 body.resume {
-	background-image: url('../media/green.jpg');
-	background-size: cover;
+  background-image: url('../media/green.jpg');
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -154,6 +154,7 @@ li {
   color: #b2ffbf;
   list-style: none;
   font-size: 1em;
+  list-style: none;
   border: 1px solid;
 }
 
@@ -188,6 +189,15 @@ footer {
   background-color: #E91E63;
   border-radius: 5px;	
   transition: background-color 0.3s ease; 
+}
+
+.section.uno2 {
+  padding: 3em;
+  margin: 6em;
+  border-radius: 10px;
+  text-align: center;
+  border: 1px solid bisque;
+  background-image: linear-gradient(to left, darkgreen, blue, indigo, red);
 }
 
 
