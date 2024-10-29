@@ -105,7 +105,7 @@ h2, h3 {
   color: orange;
 }
 
-#box1 #box2 #box3 #box4 #box5 #box6 #box7{
+#box1 {
   background-color: #1cff83;
   display: flow;
   padding: 20px;
@@ -114,17 +114,87 @@ h2, h3 {
   margin: 20px auto;
 }
 
+#box2 {
+	background-color: red;
+	display: flow;
+  padding: 20px;
+  border:10px ridge blue;
+  width: 96%;
+  margin: 20px auto;
+}
+
+#box3 {
+	background-color: yellow;
+	display: flow;
+  padding: 20px;
+  border:10px ridge black;
+  width: 96%;
+  margin: 20px auto;
+}
+
+#box4 {
+	background-color: #00f8ff;
+	display: flow;
+  padding: 20px;
+  border:10px ridge pink;
+  width: 96%;
+  margin: 20px auto;
+}
+
+#box5{
+	background-color: #c77ffd;
+	display: flow;
+  padding: 20px;
+  border:10px ridge light orange;
+  width: 96%;
+  margin: 20px auto;
+}
+
+#box6 {
+	background-color: #ff7c23;
+	display: flow;
+  padding: 20px;
+  border:10px ridge blue;
+  width: 96%;
+  margin: 20px auto;
+}
+
+#box7 {
+	background-color: grey;
+	display: flow;
+  padding: 20px;
+  border:10px ridge lightblue;
+  width: 96%;
+  margin: 20px auto;
+}
+
+.box-container {
+	display: flex; 
+  flex-wrap: wrap; 
+  gap: 10px;
+  justify-content: center;
+  padding: 20px;
+}
+
+.box-container div {
+  background-color: #1cff83;
+  padding: 20px;
+  border: 10px ridge silver;
+  width: 20%;
+  text-align: center;
+}
+
 body.uno2 {
   background-image: url('../media/uno.jpg');
-  background-size: cover;
+	background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
 body.resume {
-  background-image: url('../media/green.jpg');
-  background-size: cover;
+	background-image: url('../media/green.jpg');
+	background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -152,9 +222,9 @@ div {
 
 li {
   color: #b2ffbf;
-  list-style: none;
+	list-style: none;
   font-size: 1em;
-  list-style: none;
+	list-style: none;
   border: 1px solid;
 }
 
@@ -202,8 +272,8 @@ footer {
 
 
 p {
-  color: #ffffff;
-  font-size: 1em;
+  color: black;
+  font-size: 1.2em;
   line-height: 1.6;
   font-family: "cursive", sans-serif;
 }
@@ -223,9 +293,9 @@ content-wrapper {
 }
 
 section {
-  padding: 10px;
-  background-image: linear-gradient(to left, grey, blue);
-  margin: 6em;
+	padding: 10px;
+	background-image: linear-gradient(to left, grey, blue);
+	margin: 6em;
   border-radius: 10px;
   text-align: center;
   border: 1px solid bisque;
