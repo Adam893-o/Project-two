@@ -257,11 +257,11 @@ body.resume {
   background-attachment: fixed;
 }
 
-body.index.jupiter-img {
+body.jupiter2.jupiter-img {
   margin-left: auto;
   margin-right: auto;
   display: block;
-  border: solid 4px beige,
+  border: solid 4px beige;
   text-align: center;
 }
 
@@ -343,7 +343,7 @@ p {
   font-family: "cursive", sans-serif;
 }
 
-.index p {
+.jupiter2 p {
   color: white;
   font-size: 1.2em;
   line-height: 1.6;
