@@ -15,14 +15,11 @@ html, body {
 img,
 picture,
 video,
-canvas,
 svg {
     display: block;
     max-width: 100%;
 }
 
-button,
-input,
 textarea,
 select {
     font: inherit;
@@ -33,7 +30,7 @@ a {
     color: inherit;
 }
 
-ul, ol {
+ul, li {
     list-style: none;
 }
 
