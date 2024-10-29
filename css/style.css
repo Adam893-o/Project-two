@@ -105,7 +105,7 @@ h2, h3 {
   color: orange;
 }
 
-body.resume h1, h2 {
+body.resume h1 {
     display: block;
     font-size: 2em;
     margin-block-start: 0.67em;
@@ -114,9 +114,23 @@ body.resume h1, h2 {
     margin-inline-end: 0px;
     font-weight: bold;
     font-family: 'Devonshire', Georgia;
-    color: silver;
+    color: black;
     unicode-bidi: isolate;
 }
+
+body.resume h2 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-family: 'Devonshire', Georgia;
+    color: blue;
+    unicode-bidi: isolate;
+}
+
 
 body.uno2 h1, h2 {
     display: block;
@@ -169,8 +183,8 @@ body.uno2 h1, h2 {
 }
 
 #box5{
-	background-color: #c77ffd;
-	display: flow;
+  background-color: #c77ffd;
+  display: flow;
   padding: 20px;
   border:10px ridge light orange;
   width: 96%;
@@ -229,8 +243,10 @@ body.uno2 {
 }
 
 body.uno2 .uno-image {
-  float: left;
-  margin-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
 }
 
 body.resume {
@@ -239,6 +255,13 @@ body.resume {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
+}
+
+body.jupiter2 .jupiter-img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
 }
 
 
